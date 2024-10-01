@@ -120,12 +120,6 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "Personal Portfolio Website",
-    image: portfolioProject,
-    description: `Designed and developed a personal portfolio website to showcase projects, skills, and contact information.`,
-    technologies: ["HTML", "React", "Tailwind CSS"],
-  },
-  {
     title: "Rocket Propulsion Lab - G-Class Model Rocket",
     image: rplProject,
     description: `Designed and constructed a G-class model rocket. CAD development in SolidWorks, simulation setup, and avionics programming in C++.`,
@@ -140,7 +134,6 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "7665 Palmilla Drive, San Diego, CA 92122",
   phoneNo: "+1 858-241-1808 ",
   email: "vnarsaria@ucsd.edu",
 };
